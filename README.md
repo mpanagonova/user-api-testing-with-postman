@@ -22,3 +22,13 @@ This project demonstrates API testing using Postman on a sample user management 
 
 ## Notes
 The API used is a mock service (Reqres), so data is not persisted and authentication is simulated.
+
+## Setup
+
+1. Import the Postman collection
+2. Create an environment
+3. Add your API key:
+
+apiKey = YOUR_API_KEY
+
+4. Run the requests
