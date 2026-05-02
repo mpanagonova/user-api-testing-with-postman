@@ -38,7 +38,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -96,7 +96,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -141,7 +141,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -199,7 +199,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -264,7 +264,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -310,7 +310,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -359,7 +359,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -414,7 +414,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -467,7 +467,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
@@ -512,7 +512,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "free_user_3DAsaWeF6LaVp91M7EccRKv9cwY",
+                "value": "{{apiKey}}",
                 "type": "text"
               }
             ],
